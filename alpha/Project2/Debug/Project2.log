@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\genja\source\repos\project2\project2\myform.h(116): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+Source.obj : error LNK2005: "void __cdecl solve(char * const)" (?solve@@YAXQAD@Z) уже определен в MyForm.obj
+Source.obj : error LNK2005: "void __cdecl solve(char * const)" (?solve@@$$FYAXQAD@Z) уже определен в MyForm.obj
+C:\Users\genja\source\repos\Project2\Debug\Project2.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
