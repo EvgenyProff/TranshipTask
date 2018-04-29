@@ -1,0 +1,3 @@
+﻿  MyForm.cpp
+c:\users\genja\source\repos\beta\project2\myform.cpp(24): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  Project2.vcxproj -> C:\Users\genja\source\repos\beta\Debug\Project2.exe
